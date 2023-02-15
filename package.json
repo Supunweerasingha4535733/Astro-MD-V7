@@ -1,5 +1,5 @@
 {
-  "name": "Astro-Md",
+  "name": "SL-SUPPA",
   "version": "7.0.0",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
@@ -16,8 +16,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "꧁༺׀𝚂𝚄𝙿𝚄𝙽׀༻꧂",
+"developer": "꧁༺׀𝚂𝚄𝙿𝚄𝙽׀༻꧂",
 "homepage": "https://github.com/vihangayt0/Astro-MD-V6",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
